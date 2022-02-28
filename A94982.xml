@@ -1,0 +1,359 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative, together with letters presented by Captaine Taylor, to the Honourable House of Commons, concerning the late successe obtained by the Parliament forces in Carnavanshire in North Wales, against Sir Iohn Owen, and his forces, consisting of malignant papists and Cavaliers. As also, of his barbarous and unparallel'd inhumane usage towards the high sheriffe of the said county, and others of the Parliaments party taken prisoners by him. Ordered by the Commons in Parliament assembled, that this narrative together with the letters be forthwith printed and published. Hen. Elsing Cler. Parl.</title>
+            <author>Taylor, Captain.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94982</idno>
+            <idno type="STC">Wing T259</idno>
+            <idno type="STC">Thomason E447_8</idno>
+            <idno type="EEBO-CITATION">99863697</idno>
+            <idno type="PROQUEST">99863697</idno>
+            <idno type="VID">161802</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94982)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161802)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E447[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative, together with letters presented by Captaine Taylor, to the Honourable House of Commons, concerning the late successe obtained by the Parliament forces in Carnavanshire in North Wales, against Sir Iohn Owen, and his forces, consisting of malignant papists and Cavaliers. As also, of his barbarous and unparallel'd inhumane usage towards the high sheriffe of the said county, and others of the Parliaments party taken prisoners by him. Ordered by the Commons in Parliament assembled, that this narrative together with the letters be forthwith printed and published. Hen. Elsing Cler. Parl.</title>
+                  <author>Taylor, Captain.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Humphrey Harward, and are to be sold at his shop at the George upon Ludgate-hill over against the Bel-Salvage,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Owen, John, --  Sir, 1600-1666.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161802:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <p>A NARRATIVE, Together with LETTERS Preſented by CHAPTAINE <hi>TAYLOR,</hi> To the Honourable Houſe of COMMONS, Concerning the late ſucceſſe obtained by the Parliament forces in <hi>Carnavanſhire</hi> in North <hi>Wales,</hi> againſt Sir <hi>Iohn Owen,</hi> and his forces, conſiſting of Malignant Papiſts and Cavaliers. As alſo, Of his barbarous and unparallel'd inhu<g ref="char:EOLhyphen"/>mane uſage towards the High Sheriffe of the ſaid County, and others of the Parliaments party taken priſoners by him.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Commons in Parliament aſſembled, that this <hi>Narrative</hi> together with the Letters be forthwith Printed and publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Hen. Elſing</hi> Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <date>
+                  <add>June 13</add>
+               </date> LONDON, Printed for <hi>Humphrey Harward,</hi> and are to be ſold at his Shop at the <hi>George</hi> upon <hi>Ludgate</hi>-hill over againſt the <hi>Bel-Salvage.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161802:2"/>
+            <!-- PDF PAGE 50 -->
+            <pb n="3" facs="tcp:161802:2"/>
+            <!-- PDF PAGE 50 -->
+            <head>The Narrative, Together with Letters preſented by Capiaine <hi>Taylor,</hi> to the Honourable Houſe of Commons concerning the late ſuc<g ref="char:EOLhyphen"/>ceſſe obtained by the Parliament Forces in <hi>Carnarvanſhire</hi> in North <hi>Wales</hi> againſt Sir <hi>Iohn Owen</hi> his Forces conſiſting of Malignant Pa<g ref="char:EOLhyphen"/>piſts and Cavaliers.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ir <hi>Iohn Owen,</hi> Commander in chiefe of the ene<g ref="char:EOLhyphen"/>mies Forces (and whom they called) and for<g ref="char:EOLhyphen"/>merly Major Generall againſt the Parlia<g ref="char:EOLhyphen"/>ment, with a hundred and forty horſe, and one hundred and twenty foot or thereabouts, was growne ſo ſtrong by ſome addition from the Coun<g ref="char:EOLhyphen"/>trey, that Major Generall <hi>Mitton</hi> together with <hi>William Lloyd</hi> Eſquire, High Sheriffe of <hi>Carnarven,</hi> were forced for their ſecurity to repaire to <hi>Carnarvan</hi> Garriſon, (upon <hi>Sa<g ref="char:EOLhyphen"/>turday</hi> the third inſtant. Major Generall <hi>Mitton</hi> with the Sheriffe, and what horſe were in the Garriſon, being a<g ref="char:EOLhyphen"/>bout twenty, and ſome Foot to the number of ſixty or thereabouts, marched forth the enemy; met them within three miles of the Garriſon; the Sheriffe who led the horſe
+<pb n="4" facs="tcp:161802:3"/>
+               <!-- PDF PAGE 51 -->was ſo farre ingaged, that being overpowred, he could not come off, but after long ſtrugling, having received ſeven or eight wounds, became their priſoner, whoſe barba<g ref="char:EOLhyphen"/>rous uſage towards him can hardly be related; they carried him, whilſt he was able to ſit, from place to place on horſe<g ref="char:EOLhyphen"/>back, his wounds never ſearched nor dreſſed, which had they been, its conceived they had not proved mortall, as by a Chirurgeons atteſtation appears, given by him under his hand, as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="attestation">
+                        <head>The Chirurgeons Atteſtation.</head>
+                        <p>
+                           <hi>William Griffith</hi> Chirurgeon, being ſent for to dreſſe ſome men belonging to Sir <hi>Iohn Owen,</hi> found the High Sheriffe of <hi>Carnarvan-ſhire,</hi> wounded in ſeven ſeverall pla<g ref="char:EOLhyphen"/>ces, beſides burnings and skars, but no conſiderable helpe afforded for the healing of them, being unſearched, unten<g ref="char:EOLhyphen"/>ted, unrolled, from <hi>Saturday</hi> in the forenoon, untill <hi>Sunday</hi> night only ſome ſhallow pledgets of Lint on the ſuperfi<g ref="char:EOLhyphen"/>cies of the Orificies, which wounds (I beleeve) were all curable, if he might have reſted in a ſetled place but; be<g ref="char:EOLhyphen"/>ing marching in wind and raine, and cold getting into the wounds muſt, needs cauſe death, and this I teſtify under my hand.</p>
+                        <closer>
+                           <signed>William Griffith</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>But when his ſtrength began to faile, they carried him upon a Beare; and all this not ſufficing to take away his life, they threw him off of the ſaid beare with ſuch vio<g ref="char:EOLhyphen"/>lence that he preſently died, having continued in the lan<g ref="char:EOLhyphen"/>guiſhing condition aforeſaid, from <hi>Saturday</hi> till <hi>Munday</hi> fol<g ref="char:EOLhyphen"/>lowing, after his wounding; freſh cloaths being brought to him, Sir <hi>Iohn</hi> would not ſuffer him to be ſhifted, and
+<pb n="5" facs="tcp:161802:3"/>
+               <!-- PDF PAGE 51 -->Major Generall <hi>Mitton</hi> ſending to deſire that he might come to <hi>Carnarvan</hi> to have his wounds dreſſed, with en<g ref="char:EOLhyphen"/>gagement that after his recovery he ſhould render him<g ref="char:EOLhyphen"/>ſelfe priſoner, it was wholly refuſed, and no anſwer retur<g ref="char:EOLhyphen"/>ned thereunto; Colonel <hi>Carter</hi> Governour of <hi>Conway,</hi> and Lieutenant Colonel <hi>Twiſſelton,</hi> Governour of <hi>Denby</hi> uſed their beſt endeavours to ſuppreſſe the Forces raiſed by Sir <hi>Owen</hi> as aforeſaid, and having mounted thirty foot from <hi>Denby</hi> Caſtle with Colonel <hi>Iones</hi> his Troop, and about thirty Volunteers mounted, being ſome late disbanded of<g ref="char:EOLhyphen"/>ficers and others well-affected in <hi>Denby-ſhire,</hi> as alſo ſeven<g ref="char:EOLhyphen"/>ty Foot and thirty Horſe, procured from Colonel <hi>Duck<g ref="char:EOLhyphen"/>ingfield</hi> Governour of <hi>Cheſter,</hi> together with thirty of Colo<g ref="char:EOLhyphen"/>nel <hi>Carters</hi> ſouldiers marched towards <hi>Carnarvan,</hi> intending before ingagement with the enemy, to adde ſome of the Forces in <hi>Carnarvan;</hi> but the enemy prevented this, and met them upon <hi>Munday,</hi> the fifth of this inſtant moneth, upon a plaine near the ſea-ſide, betwixt <hi>Bangor</hi> and <hi>Aben;</hi> the Forlorns of both Parties being drawne forth, charged each other with great reſolution; but ours at laſt were forced to a diſorderly retreat; the enemy purſued with much cou<g ref="char:EOLhyphen"/>rage, and were entertained by our reſerve, after ſome long encounter, to their totall routing; and in their retreat Cap<g ref="char:EOLhyphen"/>taine <hi>Tailor</hi> ſingled out Sir <hi>Iohn Owen,</hi> and after ſome ſhort encounter wounded him, and unhorſing him, took him priſoner; there were of the enemy ſlaine about thirty, whereof three Captains, one Captaine <hi>Madrin;</hi> Captaine <hi>Morgan,</hi> and another, and fifty eight taken priſoners, moſt horſe, whereof many of quality, as by the liſt appeareth; they threw away their Armes, and moſt of them poſſeſ<g ref="char:EOLhyphen"/>ſed by us; few of them had eſcaped, but that our words were ſomewhat alike in ſound, and the ſignall on both ſides the ſame; their word was Reſolution, ours Religion;
+<pb n="6" facs="tcp:161802:4"/>
+               <!-- PDF PAGE 52 -->the ſignall was without bands, ſo in the diſorderly purſuit, we knew not each other; about fifty of their horſe got a<g ref="char:EOLhyphen"/>way in a body, and carried three of our men with them, which we hear ſince they have put to death, it being ac<g ref="char:EOLhyphen"/>cording to their reſolution, as ſome of the priſoners con<g ref="char:EOLhyphen"/>feſt, not to give quarter to any they took. Sir <hi>Iohn Owen,</hi> after he was diſarmed, upon diſcourſe uttered theſe words; though you have defeated me, yet foureſcore thou<g ref="char:EOLhyphen"/>ſand men, now in Armes in <hi>Eſſex</hi> and <hi>Kent</hi> will not be baf<g ref="char:EOLhyphen"/>led therewith; and ſeemed therewith much to comfort himſelfe.</p>
+            <p>By the Barbarous, and unchriſtian-like uſage aforemen<g ref="char:EOLhyphen"/>tioned by the ſaid Sir <hi>Iohn Owen</hi> and his rebellious crew, towards the aforeſaid Gallant Gentleman, the late High Sheriffe of <hi>Carnarvan,</hi> (who with his life gave teſti<g ref="char:EOLhyphen"/>mony of his good affection to Parliament, Mauger the late aſperſions endeavoured to be faſtned upon him by ſome perſons really diſaffected both to him and Parliament) as alſo towards others taken by them priſoners, all un<g ref="char:EOLhyphen"/>byaſed men and of any ingenuity and conſcience, may diſcover their bloudy reſolution, and others of their ſtampe towards the Parliament and their adherents. Did not God in mercy prevent the execution of their bloudy deſignes, as he hath been pleaſed moſt eminently of late, (eſpecially in this expedition, and that ſucceſſe in <hi>Kent,</hi> and other parts of the Kingdome ſo manifeſt,) which is hoped and deſired, may prove as an eye-ſalve to open the eyes of ſuch, as have been, or are apt to be deceived by the plauſible Pretences of Malignants and Cavaliers, and ſerve as a motive to all honeſt and religious men, to lay a<g ref="char:EOLhyphen"/>ſide diviſions, and to unite againſt the common adverſary, for the preſervation of Religion, and publick peace of the Kingdome.</p>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:161802:4"/>
+            <!-- PDF PAGE 52 -->
+            <head>To the honourahle <hi>William Lenthall</hi> Eſquire, Speaker of the Honourable Houſe of Commons.</head>
+            <opener>
+               <salute>Honourable Sir</salute>
+            </opener>
+            <p>I Have ſent you encloſed a Relation of the good ſucceſſe God hath been pleaſed to give unto the forces which were coming to joyn with me (againſt Sir <hi>John Owen</hi>) un<g ref="char:EOLhyphen"/>der the command of Colonel <hi>Carter,</hi> and Colonel <hi>Twiſleton,</hi> as you will find it expreſſed under their owne hands; and ſurely it was in a mighty ſeaſonable time; the few Foot that I had in <hi>Carnarvan,</hi> which Captaine <hi>Symkis</hi> turned out of <hi>Angleſey,</hi> and a very few Horſe, being tyred with continuall duty in marching out to endeavour the obſtru<g ref="char:EOLhyphen"/>cting of the enemy his raiſing of men, which by the helpe of the late high Sheriffe and <hi>Thomas Madrin</hi> Eſquire, we did very muc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prevent untill Saturday laſt, when we marched out with a party, where meeting with the enemy, Mr. Sheriffe was taken priſoner, and two more private ſouldiers, and we took a Lieutenant and an Enſign, and killed one of theirs.</p>
+            <p>The next day after the Sheriffe was taken, a great part of the County came in to Sir <hi>John Owen,</hi> and ſo faſt, that if it had not pleaſed God to give us this victory and deli<g ref="char:EOLhyphen"/>verance, this County had not been onely loſt, but alſo al<g ref="char:EOLhyphen"/>moſt all North <hi>Wales,</hi> the Iſland of <hi>Angl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſey</hi> being in ſo di<g ref="char:EOLhyphen"/>ſtracted (or rather loſt) condition, and which I hum<g ref="char:EOLhyphen"/>bly deſire may be ſpeedily taken into conſideration.</p>
+            <p>I cannot omit to give your Honour a relation of the un<g ref="char:EOLhyphen"/>chriſtianlike uſage of that gallant Gentleman by Sir <hi>John Owen</hi> and ſome others, during the time he was their priſoner.</p>
+            <p>The note here encloſed under the Chyrurgions hand, will demonſtrate one part of it.</p>
+            <p>
+               <pb n="8" facs="tcp:161802:5"/>
+               <!-- PDF PAGE 53 -->
+As ſoone as he was taken I ſent a Drum to ſee whether he were wounded, who brought me word that he was very ſorely, the next morning I ſent a letter to Sir <hi>John</hi> to deſire that he might come to <hi>Carnarvan</hi> to recover his health, which if it pleaſe God that he did, I did engage my ſelfe that he ſhould become a priſoner againe: unto which, and two letters more, he ſent me no anſwer at all; he did alſo deny to let him receive a ſuit of cloathes that I ſent him for ſhift: thoſe that he was wounded in, being exceeding bloody; and he did carry this Gentleman along with him every day, all the way he marched, untill it plea<g ref="char:EOLhyphen"/>ſed God to take him from ſuch bloudy Tyrants, and put an end unto his time here; in the field as neer as poſſibly could be diſcerned, when Sir <hi>John</hi> was routed and taken priſoner himſelfe.</p>
+            <p>There be divers other barbarous things ſpoken of con<g ref="char:EOLhyphen"/>cerning his uſage, which I forbear at this time to write un<g ref="char:EOLhyphen"/>to your Honour of (till am better informed of the certain<g ref="char:EOLhyphen"/>ty of them,) though I am induced to beleeve divers of them.</p>
+            <p>I am emboldned to give your Honour this Relation, though tedious, not doubting but the Honourable Houſe will be pleaſed to take ſome ſpeedy courſe herein, the lives of your ſervants being ſo much concerned (if ſuch men ſhall go unpuniſhed) and amongſt the reſt of him, that is</p>
+            <closer>
+               <dateline>
+                  <hi>Carnarvan</hi> 
+                  <date>the 6 of Iune 1648.</date>
+               </dateline>
+               <signed>Your Honours faithfull and moſt humble ſervant,
+THO. MITTON.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:161802:5"/>
+            <!-- PDF PAGE 53 -->
+            <head>To the Honourable <hi>William Lenthall</hi> Eſquire, ſpeaker of the Honourable Houſe of Commons.</head>
+            <opener>
+               <salute>Honourable Sir,</salute>
+            </opener>
+            <p>THe ſad diſtempers of theſe times had reached theſe countreyes in a great meaſure, and threatned ſad things to theſe Parts, had not God been pleaſed to give the Enemy a blow, and ſuch an one, as we hope will cruſh and deſtory all their hopes in theſe Parts; and it was exceeding ſeaſonable; all circumſtances conſi<g ref="char:EOLhyphen"/>dered, the relation whereof we leave to this bearer, whoſe valour and courage much conduced to the ſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ice. Sir <hi>John Owen</hi> hearing of o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r march, and ſuſpecti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n<g ref="char:EOLhyphen"/>tion, which was to joyn with Generall <hi>Myt<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he ſince confeſſed, reſolved to engage us to hinder it, and ac<g ref="char:EOLhyphen"/>cordingly marched with all the ſtrength he could make, which was of Reformados and Fightingmen about 250. all well appointed, and of Countreymen a numerous many, and met us between <hi>Bangor</hi> and <hi>Aber</hi> in a very faire plain upon the Sea-ſide, where he found us ready to entertain him, having had intelligence of his advance, we were horſe and foote 200. and upwards the diſpute was deſperate and hazardous, but at laſt (although our forlorn was firſt routed) thorough the reſolutions of the Officers and Reſerves, the routed Partie rallied, we utterly routed the Enemy, killed and tooke many; and with no few knocks to our ſelves, this indorſed liſt ſhowes you the names and qualities of the Priſoners and their number: we diſperſed alſo all the Clubmen that were got<g ref="char:EOLhyphen"/>ten together, there is ſome horſes of the Enemies gotten away which we could not immediately purſue, our horſe being wearied in the fight and march, but intend to give them little reſt in theſe Parts. We thought it our
+<pb n="10" facs="tcp:161802:6"/>
+               <!-- PDF PAGE 54 -->duty to preſent you with this accompt, wherein we would aſcribe all to that good hand of God that fought with us and for us. We are, Honourable Sir,</p>
+            <closer>
+               <signed>Your moſt humble and faithfull Servants.
+<list>
+                     <item>JOHN MARTER,</item>
+                     <item>GEORGE TWISLETON.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <head>A Liſt of the names of the Priſoners both Officers and Souldiers.</head>
+            <list>
+               <item>Sir <hi>John Owens</hi> Maj. Gener.</item>
+               <item>Mr <hi>Richard Lloyd</hi> Colonell,</item>
+               <item>Mr <hi>William Owens,</hi>
+               </item>
+               <item>Mr <hi>Hugh Budurdah,</hi>
+               </item>
+               <item>Mr <hi>Joſhua Cole,</hi>
+               </item>
+               <item>Mr <hi>Robert Wynn,</hi>
+               </item>
+               <item>Mr <hi>James Kinaſton</hi> Capt.</item>
+               <item>Mr <hi>Matthias Lloyd,</hi>
+               </item>
+               <item>Mr <hi>John Wantom,</hi>
+               </item>
+               <item>Mr <hi>Thomas Lloyd</hi> Lieu.</item>
+               <item>Mr <hi>Robert Wynn</hi> Lieu.</item>
+               <item>Mr <hi>John Mathews,</hi>
+               </item>
+               <item>Mr <hi>Samuel Conway,</hi>
+               </item>
+               <item>Mr <hi>Will. Sanders</hi> Capt.</item>
+               <item>Mr <hi>Gilbert Fox</hi> Capt.</item>
+               <item>Mr <hi>Arthur Stapleton</hi> Cornet,</item>
+               <item>
+                  <hi>Maurice Griffith</hi> ſervant to Sir <hi>John Owens.</hi>
+               </item>
+               <item>
+                  <hi>Willian Hide</hi> of Cheſhire.</item>
+               <item>
+                  <hi>John Harriſon</hi> of London.</item>
+               <item>
+                  <hi>Richard Thomas,</hi> Of Carnarvanſhire.</item>
+               <item>
+                  <hi>John Thomas,</hi> Of Carnarvanſhire.</item>
+               <item>
+                  <hi>William Pym,</hi> Of Carnarvanſhire.</item>
+               <item>
+                  <hi>Robert Jones,</hi> Of Carnarvanſhire.</item>
+               <item>
+                  <hi>William Pirhard,</hi> Of Carnarvanſhire.</item>
+               <item>
+                  <pb n="11" facs="tcp:161802:6"/>
+                  <!-- PDF PAGE 54 -->
+                  <hi>William Jones,</hi> Of Carnarvanſhire.</item>
+               <item>
+                  <hi>Hugh Roberts,</hi> Of Carnarvanſhire.</item>
+               <item>
+                  <hi>Robert Davies,</hi> Of Carnarvanſhire.</item>
+               <item>
+                  <hi>William Richard,</hi> Of Carnarvanſhire.</item>
+               <item>
+                  <hi>Richard George,</hi> Of Carnarvanſhire.</item>
+               <item>
+                  <hi>Owen-ap-William</hi> Of Carnarvanſhire.</item>
+               <item>
+                  <hi>Ralph Davenport</hi> of Lancaſhire.</item>
+               <item>
+                  <hi>Evan Roberts,</hi> Of Denbiſhire.</item>
+               <item>
+                  <hi>Thomas Jones,</hi> Of Denbiſhire.</item>
+               <item>
+                  <hi>John Davies,</hi> Of Denbiſhire.</item>
+               <item>
+                  <hi>Hugh Greene,</hi> Of Denbiſhire.</item>
+               <item>
+                  <hi>Robert Johns,</hi>
+               </item>
+               <item>
+                  <hi>John Hughes,</hi>
+               </item>
+               <item>
+                  <hi>William Danis,</hi>
+               </item>
+               <item>
+                  <hi>William Calladay</hi> of Hartfortſhire,</item>
+               <item>
+                  <hi>Walter Morgan</hi> of Gloceſterſhire,</item>
+               <item>
+                  <hi>Robert Creſwell,</hi> Of Shropſhire</item>
+               <item>
+                  <hi>William Creſwell,</hi> Of Shropſhire</item>
+               <item>
+                  <hi>Walter Roe,</hi> Of Shropſhire</item>
+               <item>
+                  <hi>Thomas Stochwell,</hi> Of Shropſhire</item>
+               <item>
+                  <hi>Chriſtopher Elmor</hi> of Lincolnſhire,</item>
+               <item>
+                  <hi>David Williams,</hi> Of Merionethſhire.</item>
+               <item>
+                  <hi>Henry Pughe,</hi> Of Merionethſhire.</item>
+               <item>
+                  <hi>Robert Williams</hi> of Flintſhire.</item>
+               <item>
+                  <hi>David Ellis</hi> of Montgomeryſhire.</item>
+               <item>
+                  <hi>Benjamin Par</hi> of Carmarthenſhire.</item>
+               <item>
+                  <pb n="12" facs="tcp:161802:7"/>
+                  <!-- PDF PAGE 55 -->
+                  <hi>John Morris</hi> of Cardigonſhire.</item>
+               <item>
+                  <hi>John Croſſe,</hi> of Worceſterſhire.</item>
+               <item>
+                  <hi>Thomas Croſſe,</hi> of Worceſterſhire.</item>
+               <item>
+                  <hi>Jeffrey Burch,</hi> of Worceſterſhire.</item>
+               <item>
+                  <hi>John Clarke,</hi> of Worceſterſhire.</item>
+               <item>
+                  <hi>Rich. Baxter</hi> of Staffordſhire.</item>
+               <item>
+                  <hi>Iſaac Edwards</hi> of Angleſey.</item>
+               <item>
+                  <hi>John Cadwalader</hi> of Carmarthenſhire.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
